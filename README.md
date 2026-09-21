@@ -74,7 +74,7 @@ npm -v
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/aryan-kumar-portfolio.git
+   git clone https://github.com/12345ARK/my-portfolio.git
    cd aryan-kumar-portfolio
    ```
 

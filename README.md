@@ -157,8 +157,11 @@ You can deploy this portfolio for free in under 2 minutes:
 3. Publish directory: `dist`
 4. Click **Deploy Site**.
 
-### 3. GitHub Pages
-You can also deploy directly using GitHub Pages with the `gh-pages` package or GitHub Actions.
+### 3. GitHub Pages (Automated via GitHub Actions)
+This repository includes a pre-configured `.github/workflows/deploy.yml` workflow:
+1. In your GitHub repo, go to **Settings** → **Pages**.
+2. Under **Build and deployment** → **Source**, make sure **GitHub Actions** is selected.
+3. Every time you push changes to the `main` branch, GitHub Actions will automatically run `npm run build` and publish your site to `https://<username>.github.io/<repo-name>/`!
 
 ---
 

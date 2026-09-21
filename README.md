@@ -134,7 +134,7 @@ npm -v
 4. **Link to your GitHub repository and push**:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/<YOUR-GITHUB-USERNAME>/aryan-kumar-portfolio.git
+   git remote add origin https://github.com/12345ARK/my-portfolio.git
    git push -u origin main
    ```
 
@@ -212,7 +212,7 @@ aryan-kumar-portfolio/
 
 **Aryan Kumar**
 - **Role**: Full-Stack Developer & CSE Student
-- **Location**: Patna, Bihar & Ambedkar Nagar, Uttar Pradesh, India
+- **Location**: Patna, Bihar , India
 - **Phone / WhatsApp**: [+91 8210820316](tel:+918210820316) / [WhatsApp](https://wa.me/918210820316)
 - **Email**: [aryankumarsfhh@gmail.com](mailto:aryankumarsfhh@gmail.com)
 - **GitHub**: [@dangerboyz3848](https://github.com)

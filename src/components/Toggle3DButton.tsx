@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Sparkles } from 'lucide-react';
+import { Box } from 'lucide-react';
 import { useAnimation3D } from '../context/Animation3DContext';
 
 interface Toggle3DButtonProps {

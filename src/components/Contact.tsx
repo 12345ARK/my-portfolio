@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
-import { Phone, Mail, MessageSquare, Copy, Check, Send, Sparkles } from 'lucide-react';
+import { Phone, Mail, Copy, Check, Send } from 'lucide-react';
 import { PERSONAL_INFO } from '../data';
 import { ContactFormData } from '../types';
 

@@ -20,7 +20,6 @@ export const SectionDivider: React.FC<SectionDividerProps> = ({
   className = '',
   variant = 'cyber',
   badgeText,
-  glowColor = '#ff2a2a',
 }) => {
   const { is3DEnabled } = useAnimation3D();
   const canvasRef = useRef<HTMLCanvasElement | null>(null);

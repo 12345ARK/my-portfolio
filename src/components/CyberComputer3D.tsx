@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import * as THREE from 'three';
 import { motion } from 'motion/react';
-import { Terminal, Code2, Cpu, RotateCw, Monitor, Sparkles, Activity } from 'lucide-react';
+import { Terminal, Code2, RotateCw, Monitor, Sparkles, Activity } from 'lucide-react';
 
 type ScreenView = 'code' | 'terminal' | 'matrix' | 'system';
 

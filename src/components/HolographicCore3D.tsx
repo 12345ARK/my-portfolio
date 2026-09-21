@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import * as THREE from 'three';
-import { RotateCw, Zap, Sparkles, Layers, Compass, Eye } from 'lucide-react';
+import { RotateCw, Zap, Compass } from 'lucide-react';
 
 export type CoreGeometryType = 'torus-knot' | 'icosahedron' | 'cyber-sphere';
 

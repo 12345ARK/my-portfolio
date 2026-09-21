@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
 import { SKILLS } from '../data';
-import { Cpu } from 'lucide-react';
 import { ThreeDTilt } from './ThreeDTilt';
 
 export const Skills: React.FC = () => {

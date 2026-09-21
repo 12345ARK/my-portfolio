@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import * as THREE from 'three';
-import { Eye, EyeOff, Box, Waves, Sparkles, Grid } from 'lucide-react';
-import { useAnimation3D, Background3DMode } from '../context/Animation3DContext';
+import { Eye, EyeOff, Box } from 'lucide-react';
+import { useAnimation3D } from '../context/Animation3DContext';
 
 export const FullScreenBackground3D: React.FC = () => {
   const mountRef = useRef<HTMLDivElement | null>(null);

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { ExternalLink, Github, Layers, Eye } from 'lucide-react';
+import { ExternalLink, Github, Eye } from 'lucide-react';
 import { PROJECTS } from '../data';
 import { Project } from '../types';
 import { ThreeDTilt } from './ThreeDTilt';

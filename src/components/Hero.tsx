@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
-import { Send, Code2, ArrowDownCircle, Phone, MessageSquare, Sparkles, CheckCircle2, Laptop } from 'lucide-react';
+import { Send, Code2, Phone, MessageSquare } from 'lucide-react';
 import { PERSONAL_INFO } from '../data';
-import { Toggle3DButton } from './Toggle3DButton';
 import { useBlackHoleWarp } from './BlackHoleTransition';
 import { CyberComputer3D } from './CyberComputer3D';
 

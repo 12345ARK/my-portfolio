@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect, MouseEvent } from 'react';
-import { Box, Sparkles, Layers, RotateCw } from 'lucide-react';
+import { Box, RotateCw } from 'lucide-react';
 
 export const ThreeDCube: React.FC = () => {
   const [rotate, setRotate] = useState({ x: -20, y: 35 });

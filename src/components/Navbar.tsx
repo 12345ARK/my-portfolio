@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Send, RotateCcw } from 'lucide-react';
-import { PERSONAL_INFO } from '../data';
 import { Toggle3DButton } from './Toggle3DButton';
 import { useBlackHoleWarp } from './BlackHoleTransition';
 
